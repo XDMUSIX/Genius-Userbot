@@ -21,12 +21,12 @@ async def help_menu_logo(answer):
             description=f"🥀 Open Help Menu Of Genius-Userbot ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
-Genius Userbot » {__version__} ✨...
+Devil Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/AdityaServer).**
+◄⏤͟͞ꭙͯ͢³̶🌹𝐏σɯҽɾҽԃ 𝐁ყ : [𝐃𝐞𝐯𝐢𝐥 𝐒𝐞𝐫𝐯𝐞𝐫](https://t.me/Monu_Gupta_01).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -42,12 +42,12 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 Welcome To Help Menu Of
-Genius Userbot » {__version__} ✨...
+Devil Userbot » {__version__} ✨...
 
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/AdityaServer).**""",
+◄⏤͟͞ꭙͯ͢³̶🌹𝐏σɯҽɾҽԃ 𝐁ყ : [𝐃𝐞𝐯𝐢𝐥 𝐒𝐞𝐫𝐯𝐞𝐫](https://t.me/Monu_Gupta_01).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
